@@ -30,7 +30,6 @@ ROBOT MICRO Y NANO SUMO DE COMPETENCIA
 -ATMEGA168V-10AU (MICROCONTROLADOR)
 
 
-
 (El módulo de arranque integrado (IR) es compatible con el CONTROL UNIVERSAL usado en competencias de ROBOTS SUMO)
 
 
